@@ -1,0 +1,16 @@
+yt : [WARNING  ] 2021-03-23 14:23:59,083 Assuming 1.0 = 1.0 cm
+yt : [WARNING  ] 2021-03-23 14:23:59,085 Assuming 1.0 = 1.0 s
+yt : [WARNING  ] 2021-03-23 14:23:59,085 Assuming 1.0 = 1.0 g
+yt : [WARNING  ] 2021-03-23 14:23:59,085 Assuming 1.0 = 1.0 K
+yt : [INFO     ] 2021-03-23 14:23:59,103 Parameters: current_time              = 0.020001959
+yt : [INFO     ] 2021-03-23 14:23:59,103 Parameters: domain_dimensions         = [512 256 256]
+yt : [INFO     ] 2021-03-23 14:23:59,104 Parameters: domain_left_edge          = [-2. -1. -1.]
+yt : [INFO     ] 2021-03-23 14:23:59,104 Parameters: domain_right_edge         = [2. 1. 1.]
+yt : [INFO     ] 2021-03-23 14:23:59,104 Parameters: cosmological_simulation   = 0.0
+yt : [INFO     ] 2021-03-23 14:24:00,244 Setting default field to ('gas', 'density')
+Traceback (most recent call last):
+  File "mov_1_1.py", line 29, in <module>
+    tfh = TransferFunctionHelper(data)
+NameError: name 'TransferFunctionHelper' is not defined
+Your group yshirley has been charged 0:00:08 (0:00:08 X 1 cpus).
+You previously had 35999:53:08.  You now have 35999:53:00 of standard_time remaining

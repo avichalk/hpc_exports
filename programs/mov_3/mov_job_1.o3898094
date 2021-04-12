@@ -1,0 +1,48 @@
+yt : [WARNING  ] 2021-04-06 14:36:18,590 Assuming 1.0 = 1.0 cm
+yt : [WARNING  ] 2021-04-06 14:36:18,592 Assuming 1.0 = 1.0 s
+yt : [WARNING  ] 2021-04-06 14:36:18,592 Assuming 1.0 = 1.0 g
+yt : [WARNING  ] 2021-04-06 14:36:18,593 Assuming 1.0 = 1.0 K
+yt : [INFO     ] 2021-04-06 14:36:18,616 Parameters: current_time              = 0.0
+yt : [INFO     ] 2021-04-06 14:36:18,616 Parameters: domain_dimensions         = [512 512 512]
+yt : [INFO     ] 2021-04-06 14:36:18,616 Parameters: domain_left_edge          = [-2. -2. -2.]
+yt : [INFO     ] 2021-04-06 14:36:18,617 Parameters: domain_right_edge         = [2. 2. 2.]
+yt : [INFO     ] 2021-04-06 14:36:18,617 Parameters: cosmological_simulation   = 0.0
+yt : [INFO     ] 2021-04-06 14:36:20,304 Setting default field to ('gas', 'density')
+yt : [INFO     ] 2021-04-06 14:36:25,568 Rendering scene (Can take a while).
+yt : [INFO     ] 2021-04-06 14:36:25,570 Creating volume
+/home/u20/avichalk/.local/lib/python3.7/site-packages/yt/units/yt_array.py:1396: RuntimeWarning: invalid value encountered in log10
+  out_arr = func(np.asarray(inp), out=out, **kwargs)
+yt : [INFO     ] 2021-04-06 14:36:34,077 Creating transfer function
+yt : [INFO     ] 2021-04-06 14:38:37,047 Rendering scene (Can take a while).
+yt : [INFO     ] 2021-04-06 14:40:36,346 Saving render 30.png
+Done with mrcol.out2.00000.athdf
+yt : [WARNING  ] 2021-04-06 14:40:36,651 Assuming 1.0 = 1.0 cm
+yt : [WARNING  ] 2021-04-06 14:40:36,651 Assuming 1.0 = 1.0 s
+yt : [WARNING  ] 2021-04-06 14:40:36,651 Assuming 1.0 = 1.0 g
+yt : [WARNING  ] 2021-04-06 14:40:36,652 Assuming 1.0 = 1.0 K
+yt : [INFO     ] 2021-04-06 14:40:36,663 Parameters: current_time              = 0.0010666167
+yt : [INFO     ] 2021-04-06 14:40:36,664 Parameters: domain_dimensions         = [512 512 512]
+yt : [INFO     ] 2021-04-06 14:40:36,664 Parameters: domain_left_edge          = [-2. -2. -2.]
+yt : [INFO     ] 2021-04-06 14:40:36,664 Parameters: domain_right_edge         = [2. 2. 2.]
+yt : [INFO     ] 2021-04-06 14:40:36,664 Parameters: cosmological_simulation   = 0.0
+yt : [INFO     ] 2021-04-06 14:40:38,264 Setting default field to ('gas', 'density')
+yt : [INFO     ] 2021-04-06 14:40:41,675 Rendering scene (Can take a while).
+yt : [INFO     ] 2021-04-06 14:40:41,681 Creating volume
+yt : [INFO     ] 2021-04-06 14:40:49,304 Creating transfer function
+yt : [INFO     ] 2021-04-06 14:42:51,364 Rendering scene (Can take a while).
+yt : [INFO     ] 2021-04-06 14:44:50,935 Saving render 31.png
+Done with mrcol.out2.00001.athdf
+yt : [WARNING  ] 2021-04-06 14:44:51,212 Assuming 1.0 = 1.0 cm
+yt : [WARNING  ] 2021-04-06 14:44:51,212 Assuming 1.0 = 1.0 s
+yt : [WARNING  ] 2021-04-06 14:44:51,213 Assuming 1.0 = 1.0 g
+yt : [WARNING  ] 2021-04-06 14:44:51,213 Assuming 1.0 = 1.0 K
+yt : [INFO     ] 2021-04-06 14:44:51,225 Parameters: current_time              = 0.0020944749
+yt : [INFO     ] 2021-04-06 14:44:51,225 Parameters: domain_dimensions         = [512 512 512]
+yt : [INFO     ] 2021-04-06 14:44:51,226 Parameters: domain_left_edge          = [-2. -2. -2.]
+yt : [INFO     ] 2021-04-06 14:44:51,226 Parameters: domain_right_edge         = [2. 2. 2.]
+yt : [INFO     ] 2021-04-06 14:44:51,226 Parameters: cosmological_simulation   = 0.0
+yt : [INFO     ] 2021-04-06 14:44:53,000 Setting default field to ('gas', 'density')
+yt : [INFO     ] 2021-04-06 14:44:57,144 Rendering scene (Can take a while).
+yt : [INFO     ] 2021-04-06 14:44:57,146 Creating volume
+yt : [INFO     ] 2021-04-06 14:45:05,895 Creating transfer function
+=>> PBS: job killed: mem 7644196kb exceeded limit 6291456kb

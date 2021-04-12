@@ -1,0 +1,357 @@
+yt : [WARNING  ] 2021-04-11 23:49:12,752 Assuming 1.0 = 1.0 cm
+yt : [WARNING  ] 2021-04-11 23:49:12,754 Assuming 1.0 = 1.0 s
+yt : [WARNING  ] 2021-04-11 23:49:12,754 Assuming 1.0 = 1.0 g
+yt : [WARNING  ] 2021-04-11 23:49:12,755 Assuming 1.0 = 1.0 K
+yt : [INFO     ] 2021-04-11 23:49:12,777 Parameters: current_time              = 0.004057988
+yt : [INFO     ] 2021-04-11 23:49:12,777 Parameters: domain_dimensions         = [512 512 512]
+yt : [INFO     ] 2021-04-11 23:49:12,777 Parameters: domain_left_edge          = [-2. -2. -2.]
+yt : [INFO     ] 2021-04-11 23:49:12,778 Parameters: domain_right_edge         = [2. 2. 2.]
+yt : [INFO     ] 2021-04-11 23:49:12,778 Parameters: cosmological_simulation   = 0.0
+yt : [INFO     ] 2021-04-11 23:49:14,509 Setting default field to ('gas', 'density')
+yt : [INFO     ] 2021-04-11 23:49:19,971 Rendering scene (Can take a while).
+yt : [INFO     ] 2021-04-11 23:49:19,973 Creating volume
+/home/u20/avichalk/.local/lib/python3.7/site-packages/yt/units/yt_array.py:1396: RuntimeWarning: invalid value encountered in log10
+  out_arr = func(np.asarray(inp), out=out, **kwargs)
+yt : [INFO     ] 2021-04-11 23:49:27,627 Creating transfer function
+yt : [INFO     ] 2021-04-11 23:50:29,896 Rendering scene (Can take a while).
+yt : [INFO     ] 2021-04-11 23:51:34,403 Saving render mrcol.out2.00004.athdf2.png
+Done with mrcol.out2.00004.athdf
+yt : [WARNING  ] 2021-04-11 23:51:34,704 Assuming 1.0 = 1.0 cm
+yt : [WARNING  ] 2021-04-11 23:51:34,705 Assuming 1.0 = 1.0 s
+yt : [WARNING  ] 2021-04-11 23:51:34,706 Assuming 1.0 = 1.0 g
+yt : [WARNING  ] 2021-04-11 23:51:34,706 Assuming 1.0 = 1.0 K
+yt : [INFO     ] 2021-04-11 23:51:34,717 Parameters: current_time              = 0.009056923
+yt : [INFO     ] 2021-04-11 23:51:34,717 Parameters: domain_dimensions         = [512 512 512]
+yt : [INFO     ] 2021-04-11 23:51:34,717 Parameters: domain_left_edge          = [-2. -2. -2.]
+yt : [INFO     ] 2021-04-11 23:51:34,717 Parameters: domain_right_edge         = [2. 2. 2.]
+yt : [INFO     ] 2021-04-11 23:51:34,717 Parameters: cosmological_simulation   = 0.0
+yt : [INFO     ] 2021-04-11 23:51:36,340 Setting default field to ('gas', 'density')
+yt : [INFO     ] 2021-04-11 23:51:39,844 Rendering scene (Can take a while).
+yt : [INFO     ] 2021-04-11 23:51:39,850 Creating volume
+yt : [INFO     ] 2021-04-11 23:51:46,656 Creating transfer function
+yt : [INFO     ] 2021-04-11 23:52:49,332 Rendering scene (Can take a while).
+yt : [INFO     ] 2021-04-11 23:53:51,475 Saving render mrcol.out2.00009.athdf2.png
+Done with mrcol.out2.00009.athdf
+yt : [WARNING  ] 2021-04-11 23:53:51,763 Assuming 1.0 = 1.0 cm
+yt : [WARNING  ] 2021-04-11 23:53:51,764 Assuming 1.0 = 1.0 s
+yt : [WARNING  ] 2021-04-11 23:53:51,764 Assuming 1.0 = 1.0 g
+yt : [WARNING  ] 2021-04-11 23:53:51,764 Assuming 1.0 = 1.0 K
+yt : [INFO     ] 2021-04-11 23:53:51,775 Parameters: current_time              = 0.003011196
+yt : [INFO     ] 2021-04-11 23:53:51,775 Parameters: domain_dimensions         = [512 512 512]
+yt : [INFO     ] 2021-04-11 23:53:51,775 Parameters: domain_left_edge          = [-2. -2. -2.]
+yt : [INFO     ] 2021-04-11 23:53:51,776 Parameters: domain_right_edge         = [2. 2. 2.]
+yt : [INFO     ] 2021-04-11 23:53:51,776 Parameters: cosmological_simulation   = 0.0
+yt : [INFO     ] 2021-04-11 23:53:53,406 Setting default field to ('gas', 'density')
+yt : [INFO     ] 2021-04-11 23:53:56,955 Rendering scene (Can take a while).
+yt : [INFO     ] 2021-04-11 23:53:56,956 Creating volume
+yt : [INFO     ] 2021-04-11 23:54:03,921 Creating transfer function
+yt : [INFO     ] 2021-04-11 23:55:06,301 Rendering scene (Can take a while).
+yt : [INFO     ] 2021-04-11 23:56:10,066 Saving render mrcol.out2.00003.athdf2.png
+Done with mrcol.out2.00003.athdf
+yt : [WARNING  ] 2021-04-11 23:56:10,351 Assuming 1.0 = 1.0 cm
+yt : [WARNING  ] 2021-04-11 23:56:10,352 Assuming 1.0 = 1.0 s
+yt : [WARNING  ] 2021-04-11 23:56:10,352 Assuming 1.0 = 1.0 g
+yt : [WARNING  ] 2021-04-11 23:56:10,352 Assuming 1.0 = 1.0 K
+yt : [INFO     ] 2021-04-11 23:56:10,363 Parameters: current_time              = 0.0010666167
+yt : [INFO     ] 2021-04-11 23:56:10,363 Parameters: domain_dimensions         = [512 512 512]
+yt : [INFO     ] 2021-04-11 23:56:10,363 Parameters: domain_left_edge          = [-2. -2. -2.]
+yt : [INFO     ] 2021-04-11 23:56:10,364 Parameters: domain_right_edge         = [2. 2. 2.]
+yt : [INFO     ] 2021-04-11 23:56:10,364 Parameters: cosmological_simulation   = 0.0
+yt : [INFO     ] 2021-04-11 23:56:12,049 Setting default field to ('gas', 'density')
+yt : [INFO     ] 2021-04-11 23:56:15,550 Rendering scene (Can take a while).
+yt : [INFO     ] 2021-04-11 23:56:15,552 Creating volume
+yt : [INFO     ] 2021-04-11 23:56:22,004 Creating transfer function
+yt : [INFO     ] 2021-04-11 23:57:24,243 Rendering scene (Can take a while).
+yt : [INFO     ] 2021-04-11 23:58:27,024 Saving render mrcol.out2.00001.athdf2.png
+Done with mrcol.out2.00001.athdf
+yt : [WARNING  ] 2021-04-11 23:58:27,317 Assuming 1.0 = 1.0 cm
+yt : [WARNING  ] 2021-04-11 23:58:27,317 Assuming 1.0 = 1.0 s
+yt : [WARNING  ] 2021-04-11 23:58:27,317 Assuming 1.0 = 1.0 g
+yt : [WARNING  ] 2021-04-11 23:58:27,318 Assuming 1.0 = 1.0 K
+yt : [INFO     ] 2021-04-11 23:58:27,329 Parameters: current_time              = 0.0020944749
+yt : [INFO     ] 2021-04-11 23:58:27,329 Parameters: domain_dimensions         = [512 512 512]
+yt : [INFO     ] 2021-04-11 23:58:27,329 Parameters: domain_left_edge          = [-2. -2. -2.]
+yt : [INFO     ] 2021-04-11 23:58:27,329 Parameters: domain_right_edge         = [2. 2. 2.]
+yt : [INFO     ] 2021-04-11 23:58:27,330 Parameters: cosmological_simulation   = 0.0
+yt : [INFO     ] 2021-04-11 23:58:29,076 Setting default field to ('gas', 'density')
+yt : [INFO     ] 2021-04-11 23:58:32,722 Rendering scene (Can take a while).
+yt : [INFO     ] 2021-04-11 23:58:32,724 Creating volume
+yt : [INFO     ] 2021-04-11 23:58:39,150 Creating transfer function
+yt : [INFO     ] 2021-04-11 23:59:42,095 Rendering scene (Can take a while).
+yt : [INFO     ] 2021-04-12 00:00:44,537 Saving render mrcol.out2.00002.athdf2.png
+Done with mrcol.out2.00002.athdf
+yt : [WARNING  ] 2021-04-12 00:00:44,826 Assuming 1.0 = 1.0 cm
+yt : [WARNING  ] 2021-04-12 00:00:44,827 Assuming 1.0 = 1.0 s
+yt : [WARNING  ] 2021-04-12 00:00:44,827 Assuming 1.0 = 1.0 g
+yt : [WARNING  ] 2021-04-12 00:00:44,827 Assuming 1.0 = 1.0 K
+yt : [INFO     ] 2021-04-12 00:00:44,838 Parameters: current_time              = 0.0050969375
+yt : [INFO     ] 2021-04-12 00:00:44,838 Parameters: domain_dimensions         = [512 512 512]
+yt : [INFO     ] 2021-04-12 00:00:44,838 Parameters: domain_left_edge          = [-2. -2. -2.]
+yt : [INFO     ] 2021-04-12 00:00:44,839 Parameters: domain_right_edge         = [2. 2. 2.]
+yt : [INFO     ] 2021-04-12 00:00:44,839 Parameters: cosmological_simulation   = 0.0
+yt : [INFO     ] 2021-04-12 00:00:46,478 Setting default field to ('gas', 'density')
+yt : [INFO     ] 2021-04-12 00:00:50,057 Rendering scene (Can take a while).
+yt : [INFO     ] 2021-04-12 00:00:50,058 Creating volume
+yt : [INFO     ] 2021-04-12 00:00:56,472 Creating transfer function
+yt : [INFO     ] 2021-04-12 00:01:58,894 Rendering scene (Can take a while).
+yt : [INFO     ] 2021-04-12 00:03:01,187 Saving render mrcol.out2.00005.athdf2.png
+Done with mrcol.out2.00005.athdf
+yt : [WARNING  ] 2021-04-12 00:03:01,482 Assuming 1.0 = 1.0 cm
+yt : [WARNING  ] 2021-04-12 00:03:01,482 Assuming 1.0 = 1.0 s
+yt : [WARNING  ] 2021-04-12 00:03:01,482 Assuming 1.0 = 1.0 g
+yt : [WARNING  ] 2021-04-12 00:03:01,483 Assuming 1.0 = 1.0 K
+yt : [INFO     ] 2021-04-12 00:03:01,494 Parameters: current_time              = 0.0
+yt : [INFO     ] 2021-04-12 00:03:01,494 Parameters: domain_dimensions         = [512 512 512]
+yt : [INFO     ] 2021-04-12 00:03:01,494 Parameters: domain_left_edge          = [-2. -2. -2.]
+yt : [INFO     ] 2021-04-12 00:03:01,494 Parameters: domain_right_edge         = [2. 2. 2.]
+yt : [INFO     ] 2021-04-12 00:03:01,495 Parameters: cosmological_simulation   = 0.0
+yt : [INFO     ] 2021-04-12 00:03:03,160 Setting default field to ('gas', 'density')
+yt : [INFO     ] 2021-04-12 00:03:06,771 Rendering scene (Can take a while).
+yt : [INFO     ] 2021-04-12 00:03:06,772 Creating volume
+yt : [INFO     ] 2021-04-12 00:03:14,031 Creating transfer function
+yt : [INFO     ] 2021-04-12 00:04:16,987 Rendering scene (Can take a while).
+yt : [INFO     ] 2021-04-12 00:05:19,158 Saving render mrcol.out2.00000.athdf2.png
+Done with mrcol.out2.00000.athdf
+yt : [WARNING  ] 2021-04-12 00:05:19,549 Assuming 1.0 = 1.0 cm
+yt : [WARNING  ] 2021-04-12 00:05:19,550 Assuming 1.0 = 1.0 s
+yt : [WARNING  ] 2021-04-12 00:05:19,550 Assuming 1.0 = 1.0 g
+yt : [WARNING  ] 2021-04-12 00:05:19,550 Assuming 1.0 = 1.0 K
+yt : [INFO     ] 2021-04-12 00:05:19,561 Parameters: current_time              = 0.01
+yt : [INFO     ] 2021-04-12 00:05:19,561 Parameters: domain_dimensions         = [512 512 512]
+yt : [INFO     ] 2021-04-12 00:05:19,561 Parameters: domain_left_edge          = [-2. -2. -2.]
+yt : [INFO     ] 2021-04-12 00:05:19,562 Parameters: domain_right_edge         = [2. 2. 2.]
+yt : [INFO     ] 2021-04-12 00:05:19,562 Parameters: cosmological_simulation   = 0.0
+yt : [INFO     ] 2021-04-12 00:05:21,325 Setting default field to ('gas', 'density')
+yt : [INFO     ] 2021-04-12 00:05:24,938 Rendering scene (Can take a while).
+yt : [INFO     ] 2021-04-12 00:05:24,939 Creating volume
+yt : [INFO     ] 2021-04-12 00:05:31,376 Creating transfer function
+yt : [INFO     ] 2021-04-12 00:06:33,579 Rendering scene (Can take a while).
+yt : [INFO     ] 2021-04-12 00:07:38,592 Saving render mrcol.out2.00010.athdf2.png
+Done with mrcol.out2.00010.athdf
+yt : [WARNING  ] 2021-04-12 00:07:38,873 Assuming 1.0 = 1.0 cm
+yt : [WARNING  ] 2021-04-12 00:07:38,874 Assuming 1.0 = 1.0 s
+yt : [WARNING  ] 2021-04-12 00:07:38,874 Assuming 1.0 = 1.0 g
+yt : [WARNING  ] 2021-04-12 00:07:38,874 Assuming 1.0 = 1.0 K
+yt : [INFO     ] 2021-04-12 00:07:38,885 Parameters: current_time              = 0.00804217
+yt : [INFO     ] 2021-04-12 00:07:38,885 Parameters: domain_dimensions         = [512 512 512]
+yt : [INFO     ] 2021-04-12 00:07:38,886 Parameters: domain_left_edge          = [-2. -2. -2.]
+yt : [INFO     ] 2021-04-12 00:07:38,886 Parameters: domain_right_edge         = [2. 2. 2.]
+yt : [INFO     ] 2021-04-12 00:07:38,886 Parameters: cosmological_simulation   = 0.0
+yt : [INFO     ] 2021-04-12 00:07:40,665 Setting default field to ('gas', 'density')
+yt : [INFO     ] 2021-04-12 00:07:44,374 Rendering scene (Can take a while).
+yt : [INFO     ] 2021-04-12 00:07:44,376 Creating volume
+yt : [INFO     ] 2021-04-12 00:07:50,918 Creating transfer function
+yt : [INFO     ] 2021-04-12 00:08:53,795 Rendering scene (Can take a while).
+yt : [INFO     ] 2021-04-12 00:09:56,383 Saving render mrcol.out2.00008.athdf2.png
+Done with mrcol.out2.00008.athdf
+yt : [WARNING  ] 2021-04-12 00:09:56,668 Assuming 1.0 = 1.0 cm
+yt : [WARNING  ] 2021-04-12 00:09:56,669 Assuming 1.0 = 1.0 s
+yt : [WARNING  ] 2021-04-12 00:09:56,669 Assuming 1.0 = 1.0 g
+yt : [WARNING  ] 2021-04-12 00:09:56,669 Assuming 1.0 = 1.0 K
+yt : [INFO     ] 2021-04-12 00:09:56,680 Parameters: current_time              = 0.0070241643
+yt : [INFO     ] 2021-04-12 00:09:56,680 Parameters: domain_dimensions         = [512 512 512]
+yt : [INFO     ] 2021-04-12 00:09:56,681 Parameters: domain_left_edge          = [-2. -2. -2.]
+yt : [INFO     ] 2021-04-12 00:09:56,681 Parameters: domain_right_edge         = [2. 2. 2.]
+yt : [INFO     ] 2021-04-12 00:09:56,681 Parameters: cosmological_simulation   = 0.0
+yt : [INFO     ] 2021-04-12 00:09:58,451 Setting default field to ('gas', 'density')
+yt : [INFO     ] 2021-04-12 00:10:02,076 Rendering scene (Can take a while).
+yt : [INFO     ] 2021-04-12 00:10:02,078 Creating volume
+yt : [INFO     ] 2021-04-12 00:10:08,614 Creating transfer function
+yt : [INFO     ] 2021-04-12 00:11:12,743 Rendering scene (Can take a while).
+yt : [INFO     ] 2021-04-12 00:12:14,887 Saving render mrcol.out2.00007.athdf2.png
+Done with mrcol.out2.00007.athdf
+yt : [WARNING  ] 2021-04-12 00:12:15,166 Assuming 1.0 = 1.0 cm
+yt : [WARNING  ] 2021-04-12 00:12:15,166 Assuming 1.0 = 1.0 s
+yt : [WARNING  ] 2021-04-12 00:12:15,167 Assuming 1.0 = 1.0 g
+yt : [WARNING  ] 2021-04-12 00:12:15,167 Assuming 1.0 = 1.0 K
+yt : [INFO     ] 2021-04-12 00:12:15,178 Parameters: current_time              = 0.006128024
+yt : [INFO     ] 2021-04-12 00:12:15,178 Parameters: domain_dimensions         = [512 512 512]
+yt : [INFO     ] 2021-04-12 00:12:15,178 Parameters: domain_left_edge          = [-2. -2. -2.]
+yt : [INFO     ] 2021-04-12 00:12:15,178 Parameters: domain_right_edge         = [2. 2. 2.]
+yt : [INFO     ] 2021-04-12 00:12:15,179 Parameters: cosmological_simulation   = 0.0
+yt : [INFO     ] 2021-04-12 00:12:16,853 Setting default field to ('gas', 'density')
+yt : [INFO     ] 2021-04-12 00:12:20,406 Rendering scene (Can take a while).
+yt : [INFO     ] 2021-04-12 00:12:20,407 Creating volume
+yt : [INFO     ] 2021-04-12 00:12:27,120 Creating transfer function
+yt : [INFO     ] 2021-04-12 00:13:29,657 Rendering scene (Can take a while).
+yt : [INFO     ] 2021-04-12 00:14:32,902 Saving render mrcol.out2.00006.athdf2.png
+Done with mrcol.out2.00006.athdf
+yt : [WARNING  ] 2021-04-12 00:14:33,195 Assuming 1.0 = 1.0 cm
+yt : [WARNING  ] 2021-04-12 00:14:33,195 Assuming 1.0 = 1.0 s
+yt : [WARNING  ] 2021-04-12 00:14:33,196 Assuming 1.0 = 1.0 g
+yt : [WARNING  ] 2021-04-12 00:14:33,196 Assuming 1.0 = 1.0 K
+yt : [INFO     ] 2021-04-12 00:14:33,206 Parameters: current_time              = 0.40001616
+yt : [INFO     ] 2021-04-12 00:14:33,207 Parameters: domain_dimensions         = [512 512 512]
+yt : [INFO     ] 2021-04-12 00:14:33,207 Parameters: domain_left_edge          = [-2. -2. -2.]
+yt : [INFO     ] 2021-04-12 00:14:33,207 Parameters: domain_right_edge         = [2. 2. 2.]
+yt : [INFO     ] 2021-04-12 00:14:33,207 Parameters: cosmological_simulation   = 0.0
+yt : [INFO     ] 2021-04-12 00:14:34,892 Setting default field to ('gas', 'density')
+yt : [INFO     ] 2021-04-12 00:14:38,577 Rendering scene (Can take a while).
+yt : [INFO     ] 2021-04-12 00:14:38,578 Creating volume
+yt : [INFO     ] 2021-04-12 00:14:45,055 Creating transfer function
+yt : [INFO     ] 2021-04-12 00:15:48,698 Rendering scene (Can take a while).
+yt : [INFO     ] 2021-04-12 00:16:51,811 Saving render mrcol.out2.00004.athdf3.png
+Done with mrcol.out2.00004.athdf
+yt : [WARNING  ] 2021-04-12 00:16:52,176 Assuming 1.0 = 1.0 cm
+yt : [WARNING  ] 2021-04-12 00:16:52,176 Assuming 1.0 = 1.0 s
+yt : [WARNING  ] 2021-04-12 00:16:52,177 Assuming 1.0 = 1.0 g
+yt : [WARNING  ] 2021-04-12 00:16:52,177 Assuming 1.0 = 1.0 K
+yt : [INFO     ] 2021-04-12 00:16:52,188 Parameters: current_time              = 0.9000011
+yt : [INFO     ] 2021-04-12 00:16:52,188 Parameters: domain_dimensions         = [512 512 512]
+yt : [INFO     ] 2021-04-12 00:16:52,188 Parameters: domain_left_edge          = [-2. -2. -2.]
+yt : [INFO     ] 2021-04-12 00:16:52,188 Parameters: domain_right_edge         = [2. 2. 2.]
+yt : [INFO     ] 2021-04-12 00:16:52,189 Parameters: cosmological_simulation   = 0.0
+yt : [INFO     ] 2021-04-12 00:16:53,955 Setting default field to ('gas', 'density')
+yt : [INFO     ] 2021-04-12 00:16:57,703 Rendering scene (Can take a while).
+yt : [INFO     ] 2021-04-12 00:16:57,704 Creating volume
+yt : [INFO     ] 2021-04-12 00:17:04,200 Creating transfer function
+yt : [INFO     ] 2021-04-12 00:18:08,788 Rendering scene (Can take a while).
+yt : [INFO     ] 2021-04-12 00:19:13,488 Saving render mrcol.out2.00009.athdf3.png
+Done with mrcol.out2.00009.athdf
+yt : [WARNING  ] 2021-04-12 00:19:13,873 Assuming 1.0 = 1.0 cm
+yt : [WARNING  ] 2021-04-12 00:19:13,873 Assuming 1.0 = 1.0 s
+yt : [WARNING  ] 2021-04-12 00:19:13,874 Assuming 1.0 = 1.0 g
+yt : [WARNING  ] 2021-04-12 00:19:13,874 Assuming 1.0 = 1.0 K
+yt : [INFO     ] 2021-04-12 00:19:13,885 Parameters: current_time              = 0.3000182
+yt : [INFO     ] 2021-04-12 00:19:13,885 Parameters: domain_dimensions         = [512 512 512]
+yt : [INFO     ] 2021-04-12 00:19:13,885 Parameters: domain_left_edge          = [-2. -2. -2.]
+yt : [INFO     ] 2021-04-12 00:19:13,885 Parameters: domain_right_edge         = [2. 2. 2.]
+yt : [INFO     ] 2021-04-12 00:19:13,886 Parameters: cosmological_simulation   = 0.0
+yt : [INFO     ] 2021-04-12 00:19:15,659 Setting default field to ('gas', 'density')
+yt : [INFO     ] 2021-04-12 00:19:19,387 Rendering scene (Can take a while).
+yt : [INFO     ] 2021-04-12 00:19:19,388 Creating volume
+yt : [INFO     ] 2021-04-12 00:19:26,132 Creating transfer function
+yt : [INFO     ] 2021-04-12 00:20:29,374 Rendering scene (Can take a while).
+yt : [INFO     ] 2021-04-12 00:21:32,171 Saving render mrcol.out2.00003.athdf3.png
+Done with mrcol.out2.00003.athdf
+yt : [WARNING  ] 2021-04-12 00:21:32,527 Assuming 1.0 = 1.0 cm
+yt : [WARNING  ] 2021-04-12 00:21:32,527 Assuming 1.0 = 1.0 s
+yt : [WARNING  ] 2021-04-12 00:21:32,528 Assuming 1.0 = 1.0 g
+yt : [WARNING  ] 2021-04-12 00:21:32,528 Assuming 1.0 = 1.0 K
+yt : [INFO     ] 2021-04-12 00:21:32,539 Parameters: current_time              = 0.10001137
+yt : [INFO     ] 2021-04-12 00:21:32,539 Parameters: domain_dimensions         = [512 512 512]
+yt : [INFO     ] 2021-04-12 00:21:32,539 Parameters: domain_left_edge          = [-2. -2. -2.]
+yt : [INFO     ] 2021-04-12 00:21:32,539 Parameters: domain_right_edge         = [2. 2. 2.]
+yt : [INFO     ] 2021-04-12 00:21:32,540 Parameters: cosmological_simulation   = 0.0
+yt : [INFO     ] 2021-04-12 00:21:34,314 Setting default field to ('gas', 'density')
+yt : [INFO     ] 2021-04-12 00:21:38,120 Rendering scene (Can take a while).
+yt : [INFO     ] 2021-04-12 00:21:38,122 Creating volume
+yt : [INFO     ] 2021-04-12 00:21:44,772 Creating transfer function
+yt : [INFO     ] 2021-04-12 00:22:47,751 Rendering scene (Can take a while).
+yt : [INFO     ] 2021-04-12 00:23:50,700 Saving render mrcol.out2.00001.athdf3.png
+Done with mrcol.out2.00001.athdf
+yt : [WARNING  ] 2021-04-12 00:23:51,040 Assuming 1.0 = 1.0 cm
+yt : [WARNING  ] 2021-04-12 00:23:51,040 Assuming 1.0 = 1.0 s
+yt : [WARNING  ] 2021-04-12 00:23:51,041 Assuming 1.0 = 1.0 g
+yt : [WARNING  ] 2021-04-12 00:23:51,041 Assuming 1.0 = 1.0 K
+yt : [INFO     ] 2021-04-12 00:23:51,052 Parameters: current_time              = 0.20000122
+yt : [INFO     ] 2021-04-12 00:23:51,052 Parameters: domain_dimensions         = [512 512 512]
+yt : [INFO     ] 2021-04-12 00:23:51,052 Parameters: domain_left_edge          = [-2. -2. -2.]
+yt : [INFO     ] 2021-04-12 00:23:51,053 Parameters: domain_right_edge         = [2. 2. 2.]
+yt : [INFO     ] 2021-04-12 00:23:51,053 Parameters: cosmological_simulation   = 0.0
+yt : [INFO     ] 2021-04-12 00:23:52,756 Setting default field to ('gas', 'density')
+yt : [INFO     ] 2021-04-12 00:23:56,387 Rendering scene (Can take a while).
+yt : [INFO     ] 2021-04-12 00:23:56,389 Creating volume
+yt : [INFO     ] 2021-04-12 00:24:02,928 Creating transfer function
+yt : [INFO     ] 2021-04-12 00:25:05,568 Rendering scene (Can take a while).
+yt : [INFO     ] 2021-04-12 00:26:07,799 Saving render mrcol.out2.00002.athdf3.png
+Done with mrcol.out2.00002.athdf
+yt : [WARNING  ] 2021-04-12 00:26:08,152 Assuming 1.0 = 1.0 cm
+yt : [WARNING  ] 2021-04-12 00:26:08,153 Assuming 1.0 = 1.0 s
+yt : [WARNING  ] 2021-04-12 00:26:08,153 Assuming 1.0 = 1.0 g
+yt : [WARNING  ] 2021-04-12 00:26:08,153 Assuming 1.0 = 1.0 K
+yt : [INFO     ] 2021-04-12 00:26:08,164 Parameters: current_time              = 0.5000018
+yt : [INFO     ] 2021-04-12 00:26:08,164 Parameters: domain_dimensions         = [512 512 512]
+yt : [INFO     ] 2021-04-12 00:26:08,164 Parameters: domain_left_edge          = [-2. -2. -2.]
+yt : [INFO     ] 2021-04-12 00:26:08,165 Parameters: domain_right_edge         = [2. 2. 2.]
+yt : [INFO     ] 2021-04-12 00:26:08,165 Parameters: cosmological_simulation   = 0.0
+yt : [INFO     ] 2021-04-12 00:26:09,812 Setting default field to ('gas', 'density')
+yt : [INFO     ] 2021-04-12 00:26:13,515 Rendering scene (Can take a while).
+yt : [INFO     ] 2021-04-12 00:26:13,516 Creating volume
+yt : [INFO     ] 2021-04-12 00:26:19,980 Creating transfer function
+yt : [INFO     ] 2021-04-12 00:27:22,426 Rendering scene (Can take a while).
+yt : [INFO     ] 2021-04-12 00:28:26,327 Saving render mrcol.out2.00005.athdf3.png
+Done with mrcol.out2.00005.athdf
+yt : [WARNING  ] 2021-04-12 00:28:26,694 Assuming 1.0 = 1.0 cm
+yt : [WARNING  ] 2021-04-12 00:28:26,694 Assuming 1.0 = 1.0 s
+yt : [WARNING  ] 2021-04-12 00:28:26,695 Assuming 1.0 = 1.0 g
+yt : [WARNING  ] 2021-04-12 00:28:26,695 Assuming 1.0 = 1.0 K
+yt : [INFO     ] 2021-04-12 00:28:26,706 Parameters: current_time              = 0.0
+yt : [INFO     ] 2021-04-12 00:28:26,706 Parameters: domain_dimensions         = [512 512 512]
+yt : [INFO     ] 2021-04-12 00:28:26,706 Parameters: domain_left_edge          = [-2. -2. -2.]
+yt : [INFO     ] 2021-04-12 00:28:26,706 Parameters: domain_right_edge         = [2. 2. 2.]
+yt : [INFO     ] 2021-04-12 00:28:26,707 Parameters: cosmological_simulation   = 0.0
+yt : [INFO     ] 2021-04-12 00:28:28,518 Setting default field to ('gas', 'density')
+yt : [INFO     ] 2021-04-12 00:28:32,249 Rendering scene (Can take a while).
+yt : [INFO     ] 2021-04-12 00:28:32,250 Creating volume
+yt : [INFO     ] 2021-04-12 00:28:38,846 Creating transfer function
+yt : [INFO     ] 2021-04-12 00:29:41,321 Rendering scene (Can take a while).
+yt : [INFO     ] 2021-04-12 00:30:43,989 Saving render mrcol.out2.00000.athdf3.png
+Done with mrcol.out2.00000.athdf
+yt : [WARNING  ] 2021-04-12 00:30:44,272 Assuming 1.0 = 1.0 cm
+yt : [WARNING  ] 2021-04-12 00:30:44,273 Assuming 1.0 = 1.0 s
+yt : [WARNING  ] 2021-04-12 00:30:44,273 Assuming 1.0 = 1.0 g
+yt : [WARNING  ] 2021-04-12 00:30:44,273 Assuming 1.0 = 1.0 K
+yt : [INFO     ] 2021-04-12 00:30:44,284 Parameters: current_time              = 1.0
+yt : [INFO     ] 2021-04-12 00:30:44,284 Parameters: domain_dimensions         = [512 512 512]
+yt : [INFO     ] 2021-04-12 00:30:44,285 Parameters: domain_left_edge          = [-2. -2. -2.]
+yt : [INFO     ] 2021-04-12 00:30:44,285 Parameters: domain_right_edge         = [2. 2. 2.]
+yt : [INFO     ] 2021-04-12 00:30:44,285 Parameters: cosmological_simulation   = 0.0
+yt : [INFO     ] 2021-04-12 00:30:46,085 Setting default field to ('gas', 'density')
+yt : [INFO     ] 2021-04-12 00:30:49,802 Rendering scene (Can take a while).
+yt : [INFO     ] 2021-04-12 00:30:49,803 Creating volume
+yt : [INFO     ] 2021-04-12 00:30:56,263 Creating transfer function
+yt : [INFO     ] 2021-04-12 00:32:04,054 Rendering scene (Can take a while).
+yt : [INFO     ] 2021-04-12 00:33:11,553 Saving render mrcol.out2.00010.athdf3.png
+Done with mrcol.out2.00010.athdf
+yt : [WARNING  ] 2021-04-12 00:33:11,941 Assuming 1.0 = 1.0 cm
+yt : [WARNING  ] 2021-04-12 00:33:11,942 Assuming 1.0 = 1.0 s
+yt : [WARNING  ] 2021-04-12 00:33:11,942 Assuming 1.0 = 1.0 g
+yt : [WARNING  ] 2021-04-12 00:33:11,942 Assuming 1.0 = 1.0 K
+yt : [INFO     ] 2021-04-12 00:33:11,953 Parameters: current_time              = 0.80000013
+yt : [INFO     ] 2021-04-12 00:33:11,953 Parameters: domain_dimensions         = [512 512 512]
+yt : [INFO     ] 2021-04-12 00:33:11,953 Parameters: domain_left_edge          = [-2. -2. -2.]
+yt : [INFO     ] 2021-04-12 00:33:11,954 Parameters: domain_right_edge         = [2. 2. 2.]
+yt : [INFO     ] 2021-04-12 00:33:11,954 Parameters: cosmological_simulation   = 0.0
+yt : [INFO     ] 2021-04-12 00:33:13,605 Setting default field to ('gas', 'density')
+yt : [INFO     ] 2021-04-12 00:33:17,165 Rendering scene (Can take a while).
+yt : [INFO     ] 2021-04-12 00:33:17,166 Creating volume
+yt : [INFO     ] 2021-04-12 00:33:24,054 Creating transfer function
+yt : [INFO     ] 2021-04-12 00:34:27,510 Rendering scene (Can take a while).
+yt : [INFO     ] 2021-04-12 00:35:30,846 Saving render mrcol.out2.00008.athdf3.png
+Done with mrcol.out2.00008.athdf
+yt : [WARNING  ] 2021-04-12 00:35:31,235 Assuming 1.0 = 1.0 cm
+yt : [WARNING  ] 2021-04-12 00:35:31,236 Assuming 1.0 = 1.0 s
+yt : [WARNING  ] 2021-04-12 00:35:31,236 Assuming 1.0 = 1.0 g
+yt : [WARNING  ] 2021-04-12 00:35:31,236 Assuming 1.0 = 1.0 K
+yt : [INFO     ] 2021-04-12 00:35:31,247 Parameters: current_time              = 0.7000056
+yt : [INFO     ] 2021-04-12 00:35:31,247 Parameters: domain_dimensions         = [512 512 512]
+yt : [INFO     ] 2021-04-12 00:35:31,247 Parameters: domain_left_edge          = [-2. -2. -2.]
+yt : [INFO     ] 2021-04-12 00:35:31,248 Parameters: domain_right_edge         = [2. 2. 2.]
+yt : [INFO     ] 2021-04-12 00:35:31,248 Parameters: cosmological_simulation   = 0.0
+yt : [INFO     ] 2021-04-12 00:35:32,948 Setting default field to ('gas', 'density')
+yt : [INFO     ] 2021-04-12 00:35:36,671 Rendering scene (Can take a while).
+yt : [INFO     ] 2021-04-12 00:35:36,672 Creating volume
+yt : [INFO     ] 2021-04-12 00:35:43,213 Creating transfer function
+yt : [INFO     ] 2021-04-12 00:36:46,075 Rendering scene (Can take a while).
+yt : [INFO     ] 2021-04-12 00:37:49,634 Saving render mrcol.out2.00007.athdf3.png
+Done with mrcol.out2.00007.athdf
+yt : [WARNING  ] 2021-04-12 00:37:50,009 Assuming 1.0 = 1.0 cm
+yt : [WARNING  ] 2021-04-12 00:37:50,009 Assuming 1.0 = 1.0 s
+yt : [WARNING  ] 2021-04-12 00:37:50,009 Assuming 1.0 = 1.0 g
+yt : [WARNING  ] 2021-04-12 00:37:50,010 Assuming 1.0 = 1.0 K
+yt : [INFO     ] 2021-04-12 00:37:50,020 Parameters: current_time              = 0.6000133
+yt : [INFO     ] 2021-04-12 00:37:50,021 Parameters: domain_dimensions         = [512 512 512]
+yt : [INFO     ] 2021-04-12 00:37:50,021 Parameters: domain_left_edge          = [-2. -2. -2.]
+yt : [INFO     ] 2021-04-12 00:37:50,021 Parameters: domain_right_edge         = [2. 2. 2.]
+yt : [INFO     ] 2021-04-12 00:37:50,021 Parameters: cosmological_simulation   = 0.0
+yt : [INFO     ] 2021-04-12 00:37:51,825 Setting default field to ('gas', 'density')
+yt : [INFO     ] 2021-04-12 00:37:55,552 Rendering scene (Can take a while).
+yt : [INFO     ] 2021-04-12 00:37:55,553 Creating volume
+yt : [INFO     ] 2021-04-12 00:38:02,130 Creating transfer function
+yt : [INFO     ] 2021-04-12 00:39:04,834 Rendering scene (Can take a while).
+yt : [INFO     ] 2021-04-12 00:40:07,587 Saving render mrcol.out2.00006.athdf3.png
+Done with mrcol.out2.00006.athdf
+DONE ONE
+DONE TWO
+DONE THREE
